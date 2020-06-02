@@ -1,4 +1,4 @@
-# mobilenet_ours
+# Deep learning lightweight
 
 광운대학교 산학연계프로젝트 
 
