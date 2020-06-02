@@ -2,7 +2,8 @@
 
 광운대학교 산학연계프로젝트 
 
-Deep Learning Network 경량화 및 고속화
+Deep Learning Network 경량화
+
 
 팀: 흩죽뭉살
 
